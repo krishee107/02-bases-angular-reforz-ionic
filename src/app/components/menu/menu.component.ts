@@ -10,6 +10,7 @@ export class MenuComponent {
     { path: 'home', name: 'Home' },
     { path: 'about', name: 'About' },
     { path: 'contact', name: 'Contact' },
+    { path: 'posts', name: 'Posts' },
   ];
 
 }
